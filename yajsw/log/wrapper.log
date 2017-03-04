@@ -1,0 +1,26 @@
+WARNING|wrapper|yajsw|17-03-04 22:52:36|YAJSW: yajsw-stable-12.08
+WARNING|wrapper|yajsw|17-03-04 22:52:36|OS   : Linux/4.8.0-39-generic/amd64
+WARNING|wrapper|yajsw|17-03-04 22:52:36|JVM  : Oracle Corporation/1.8.0_121//usr/lib/jvm/java-8-openjdk-amd64/jre/64
+INFO|wrapper|yajsw|17-03-04 22:52:37|exec:"java" "-classpath" "/home/alex/Projects/YAJSWTuts/yajsw/wrapperApp.jar:/home/alex/Projects/YAJSWTuts/target/YAJSWTuts-0.0.1.jar" "-Djna_tmpdir=/home/alex/Projects/YAJSWTuts/yajsw/tmp" "-Dwrapper_home=/home/alex/Projects/YAJSWTuts/yajsw" "-Dwrapper.port=15003" "-Dwrapper.key=-7067087442891682711" "-Dwrapper.teeName=-7067087442891682711$1488664356705" "-Dwrapper.tmp.path=/home/alex/Projects/YAJSWTuts/yajsw/tmp" "-Djna_tmpdir=/home/alex/Projects/YAJSWTuts/yajsw/tmp" "-Dwrapper.config=/home/alex/Projects/YAJSWTuts/yajsw/conf/wrapper.conf" "org.rzo.yajsw.app.WrapperJVMMain" 
+INFO|wrapper|yajsw|17-03-04 22:52:37|posix_spawn pid 20139
+INFO|wrapper|yajsw|17-03-04 22:52:37|started process 20139
+INFO|wrapper|yajsw|17-03-04 22:52:37|started process with pid 20139
+INFO|20139/0|yajsw|17-03-04 22:52:38|[INFO] StandardFileSystemManager - Using "/tmp/vfs_cache" as temporary files store.
+INFO|20139/0|yajsw|17-03-04 22:52:38|Start running timer: 
+INFO|20139/0|yajsw|17-03-04 22:52:39|Seconds passed: 1
+INFO|20139/0|yajsw|17-03-04 22:52:40|Seconds passed: 2
+INFO|20139/0|yajsw|17-03-04 22:52:41|Seconds passed: 3
+INFO|20139/0|yajsw|17-03-04 22:52:42|Seconds passed: 4
+INFO|20139/0|yajsw|17-03-04 22:52:43|Seconds passed: 5
+INFO|20139/0|yajsw|17-03-04 22:52:44|Seconds passed: 6
+INFO|20139/0|yajsw|17-03-04 22:52:45|Seconds passed: 7
+INFO|20139/0|yajsw|17-03-04 22:52:46|Seconds passed: 8
+INFO|wrapper|yajsw|17-03-04 22:52:47|Shutting down Wrapper
+INFO|wrapper|yajsw|17-03-04 22:52:47|stopping process with pid/timeout 20139 45000
+INFO|20139/0|yajsw|17-03-04 22:52:47|Seconds passed: 9
+INFO|20139/0|yajsw|17-03-04 22:52:47|wrapper manager received stop command
+INFO|wrapper|yajsw|17-03-04 22:52:47|waitpid 20139 0
+INFO|wrapper|yajsw|17-03-04 22:52:47|exit code posix process: 0 application: 0
+INFO|wrapper|yajsw|17-03-04 22:52:47|shutdown wrapper due to exit code rule
+INFO|wrapper|yajsw|17-03-04 22:52:47|killing 20139
+INFO|wrapper|yajsw|17-03-04 22:52:48|process exit code: 0
